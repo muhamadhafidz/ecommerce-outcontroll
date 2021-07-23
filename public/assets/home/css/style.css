@@ -1,0 +1,47 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+.navbar{
+    /* background-color: #132744; */
+}
+.landing{
+    background-image: url('/assets/image/bg-landing2.png');
+    height: 600px;
+    width: 100%;
+    background-position: bottom;
+    background-size: cover;
+    color: white;
+    padding-top: 180px;
+
+}
+
+.landing-text{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+    font-size: 45px;
+}
+
+.labo-text{
+    color: #f2e90e;
+}
+
+.btn-masuk-out{
+    background-color: #2E4B68;
+    width: fit-content;
+    border-radius: 12px;
+}
+
+.btn-masuk{
+    border-radius: 10px;
+    width: 150px;
+    background-color: #B92941;
+    border-color: #B92941;
+}
+
+.quote{
+    font-family: 'Dosis', sans-serif;
+}
+
+.quote-title{
+    font-family: 'Crete Round', serif;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color:  #2E4B68;
+}
+
+.form-login{
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+/* .logo{
+    background-color: #2E4B68;
+    border-radius: 20px 0px 20px 0px;
+} */
+
+.bg-login{
+    background-image: url('/assets/image/login.jpg');
+    background-size: cover;
+
+}
